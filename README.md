@@ -13,17 +13,14 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 ---
 
 # 🟥 Case A: Elasticity
-- **Reference**: [Geometry-Aware Fourier Neural Operator (GEO-FNO)](https://arxiv.org/html/2207.05209v2) by Li. et al. (2023)
-
 
 <p align="center">
   <img src="figs/elec1.png" width="800"/>
 </p>
 
 <p align="center">
-  <strong>Figure 2:</strong> Elasticity benchmark setup (GEO-FNO, Li et al., 2023), where the model predicts the stress field over the domain.
+  <strong>Figure 2:</strong> Elasticity benchmark setup, where the model predicts the stress field over the domain. Adapted from <a href="https://arxiv.org/html/2207.05209v2"><em>Geometry-Aware Fourier Neural Operator (GEO-FNO)</em></a> by Li et al. (2023).
 </p>
-
 
 | Model             | Training Error | Testing Error |
 | ----------------- | -------------: | ------------: |
@@ -40,7 +37,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 
 
 <p align="center">
-  <strong>Table 1:</strong> Mean squared error (MSE) values for the elasticity case, adapted from* "Fourier Neural Operator with Learned Deformations for PDEs on General Geometries" *by Zongyi Li et al. (2023), p. 14.* [Read paper](https://arxiv.org/html/2207.05209v2).
+  <strong>Table 1:</strong> Mean squared error (MSE) results for the elasticity benchmark, adapted from <a href="https://arxiv.org/html/2207.05209v2"><em>Fourier Neural Operator with Learned Deformations for PDEs on General Geometries</em></a> by Zongyi Li et al. (2023, p. 14).
 </p>
 
 
@@ -50,7 +47,6 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 
 # 🟥 Case B: Pipe Flow
 
-- **Reference**: [Geometry-Aware Fourier Neural Operator (GEO-FNO)](https://arxiv.org/html/2207.05209v2) by Li. et al. (2023)
 
 
 <p align="center">
@@ -58,9 +54,8 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 </p>
 
 <p align="center">
-  <strong>Figure 3:</strong> Pipe Flow benchmark setup (GEO-FNO, Li et al., 2023), where the model predicts the stress field over the domain.
+  <strong>Figure 3:</strong> Pipe flow benchmark setup, where the model predicts the velocity and pressure fields over the domain. Adapted from <a href="https://arxiv.org/html/2207.05209v2">Geometry-Aware Fourier Neural Operator (GEO-FNO)</a> by Li et al. (2023).
 </p>
-
 
 
 | Model              | Training MSE | Testing MSE  |
@@ -79,7 +74,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 
 
 <p align="center">
-  <strong>Table 2:</strong> Mean squared error (MSE) values for the pipe case, adapted from* "Fourier Neural Operator with Learned Deformations for PDEs on General Geometries" *by Zongyi Li et al. (2023), p. 18.* [Read paper](https://arxiv.org/html/2207.05209v2).
+  <strong>Table 2:</strong> Mean squared error (MSE) results for the pipe flow benchmark, adapted from <a href="https://arxiv.org/html/2207.05209v2"><em>Fourier Neural Operator with Learned Deformations for PDEs on General Geometries</em></a> by Zongyi Li et al. (2023, p. 18).
 </p>
 
 ---
@@ -93,9 +88,8 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 </p>
 
 <p align="center">
-  <strong>Figure 4:</strong> 3D+T Burgers case (new added case), where the model predicts the velocity field over the domain.
+  <strong>Figure 4:</strong> 3D+T Burgers benchmark (newly added case), where the model predicts the time-dependent velocity field over the domain.
 </p>
-
 
 
 ### Model Performance and Runtime Comparison
@@ -115,7 +109,6 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 
 
 <p align="center">
-  <strong>Table 3:</strong> Relative $L_2$ a and wall clock per epoch values for the 3D+T Burgers case.
+  <strong>Table 3:</strong> Relative \(L_2\) error and wall-clock time per epoch for the 3D+T Burgers benchmark.
 </p>
 
----
