@@ -4,7 +4,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 ---
 
 <p align="center">
-  <img src="figs/GSNO_ver3.png" width="600"/>
+  <img src="figs/GSNO_ver3.png" width="1200"/>
 </p>
 
 <p align="center">
