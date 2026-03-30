@@ -1,5 +1,7 @@
 This is an anonymous repository supporting the paper titled *Graph Spectral Neural Operators: Learning Space-Time PDE Solutions on Arbitrary Geometries* for ICM 2026.
 
+---
+---
 
 <p align="center">
   <img src="figs/GSNO_ver3.png" width="600"/>
@@ -92,7 +94,6 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 </p>
 
 
-### Model Performance and Runtime Comparison
 
 | Model                   | (Relative $L_2$) | Runtime per Epoch (s) |
 | ----------------------- | ---------------- | --------------------- |
