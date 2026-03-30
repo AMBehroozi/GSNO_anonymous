@@ -12,7 +12,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 ---
 ---
 
-# 🟥 Case A: Elasticity (A_elasticity)  
+# 🟥 Case A: Elasticity
 - **Reference**: [Geometry-Aware Fourier Neural Operator (GEO-FNO)](https://arxiv.org/html/2207.05209v2) by Li. et al. (2023)
 
 
@@ -48,7 +48,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 ---
 
 
-# 🟥 Case B: Pipe Flow (B_pipe)
+# 🟥 Case B: Pipe Flow
 
 - **Reference**: [Geometry-Aware Fourier Neural Operator (GEO-FNO)](https://arxiv.org/html/2207.05209v2) by Li. et al. (2023)
 
@@ -85,7 +85,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 ---
 ---
 
-# 🟥 Case C: 3D Burgers (C_burger_3d_time)
+# 🟥 Case C: 3D Burgers
 
 
 <p align="center">
