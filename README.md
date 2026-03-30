@@ -80,7 +80,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 ---
 ---
 
-# 🟥 Case C: 3D Burgers
+# 🟥 Case C: 3D+t Burgers
 
 
 <p align="center">
