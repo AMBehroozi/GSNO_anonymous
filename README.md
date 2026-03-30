@@ -15,7 +15,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 # 🟥 Case A: Elasticity
 
 <p align="center">
-  <img src="figs/elec1.png" width="800"/>
+  <img src="figs/Document2_cropped_page-0001.jpg" width="600"/>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ This is an anonymous repository supporting the paper titled *Graph Spectral Neur
 
 
 <p align="center">
-  <img src="figs/pipe1.png" width="800"/>
+  <img src="figs/pipe3.png" width="800"/>
 </p>
 
 <p align="center">
